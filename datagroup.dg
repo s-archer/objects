@@ -1,3 +1,4 @@
-aws := 10.1.2.3,
-azure := 11.1.2.3,
-gcp := 12.1.2.3,
+# cat ext_dg_string.txt
+"name1" := "value1",
+"name2" := "value2",
+"name3" := "value3",
